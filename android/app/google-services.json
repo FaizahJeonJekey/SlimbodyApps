@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217400381262",
+    "project_id": "slibody-a05cb",
+    "storage_bucket": "slibody-a05cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217400381262:android:423edb33efee92911c581f",
+        "android_client_info": {
+          "package_name": "com.slibody"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvC8kKi04AGL64xHPMC2u_ZEyZbD5Jf7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
